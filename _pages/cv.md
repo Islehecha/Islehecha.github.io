@@ -11,54 +11,43 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. student in Control Science and Engineering, Southern University of Science and Technology & Peng Cheng Laboratory, 2023.9-present
+  * Advisor: Prof. Zhiyun Lin (IEEE Fellow)
+  * Topic: Generative ergodic search and robust motion control for dynamic target distributions
+  * Coursework: Matrix Analysis and Its Applications
+* M.S. in Control Science and Engineering, Qingdao University, 2020.9-2023.6
+  * Advisor: Prof. Lin Zhao
+  * GPA: 3.61/4.0, top 20%
+  * Research: Adaptive finite-time control for stochastic nonlinear systems
+  * Coursework: Robotics
+  * Honors: Outstanding Graduate, Second-Class Scholarship, Outstanding Student Leader
+* B.S. in Automation, Wuhan University of Science and Technology, 2015.9-2019.6
+  * GPA: 3.43/4.0, top 10%
+  * Coursework: Principles of Automatic Control, Modern Control Theory
+  * Honors: Outstanding Graduation Thesis, Outstanding Student
 
-Work experience
+Research
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Generative ergodic search and robust motion control for dynamic target distributions
+  * Built a hierarchical closed-loop architecture for dynamic target search.
+  * Designed diffusion-model-based generative planning and reinforcement-learning-based simplex robust control.
+  * Applied the framework to time-varying target search and planning-control-consistent motion synthesis under severe physical disturbances.
+* Adaptive finite-time control for stochastic nonlinear systems
+  * Built stochastic nonlinear system models and command-filtered adaptive backstepping finite-time controllers.
+  * Proved practical mean-square finite-time stability with Lyapunov stability theory.
+  * Applied the method to manipulator tracking control under random vibration.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* C/C++
+* Matlab/Simulink
+* ROS
+* Gazebo
+* CET-6: 512
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

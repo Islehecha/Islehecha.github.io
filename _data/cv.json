@@ -1,152 +1,152 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Xinyu Song",
+    "email": "xysong7664@163.com",
+    "phone": "17852152879",
+    "website": "https://Islehecha.github.io",
+    "summary": "Ph.D. student in Control Science and Engineering at Southern University of Science and Technology and Peng Cheng Laboratory.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Shenzhen",
+      "countryCode": "CN",
+      "region": "Guangdong"
     },
-    "profiles": [
-      {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
-      },
-      {
-        "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
-      }
-    ]
+    "profiles": []
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "Southern University of Science and Technology & Peng Cheng Laboratory",
+      "area": "Control Science and Engineering",
+      "studyType": "Ph.D. student",
+      "startDate": "2023-09",
+      "endDate": "Present",
       "gpa": null,
-      "courses": []
+      "courses": [
+        "Matrix Analysis and Its Applications"
+      ]
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
+      "institution": "Qingdao University",
+      "area": "Control Science and Engineering",
+      "studyType": "M.S.",
+      "startDate": "2020-09",
+      "endDate": "2023-06",
+      "gpa": "3.61/4.0",
+      "courses": [
+        "Robotics"
+      ]
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "institution": "Wuhan University of Science and Technology",
+      "area": "Automation",
+      "studyType": "B.S.",
+      "startDate": "2015-09",
+      "endDate": "2019-06",
+      "gpa": "3.43/4.0",
+      "courses": [
+        "Principles of Automatic Control",
+        "Modern Control Theory"
+      ]
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
+  "skills": [
+    {
+      "name": "Programming and tools",
+      "keywords": [
+        "Python",
+        "C/C++",
+        "Matlab/Simulink",
+        "ROS",
+        "Gazebo"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "CET-6: 512"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Research",
+      "keywords": [
+        "Generative ergodic search",
+        "Robust motion control",
+        "Adaptive finite-time control",
+        "Stochastic nonlinear systems"
+      ]
+    }
+  ],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Diffusion-Ergodic: A Generative Framework for Information-Theoretic Exploration",
+      "publisher": "ICML",
+      "releaseDate": "2026",
+      "website": "",
+      "summary": "Under review."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Reinforcement Learning to Coordinate a Hierarchy of Piecewise Controllers for Robust Motion Synthesis",
+      "publisher": "Automatica",
+      "releaseDate": "",
+      "website": "",
+      "summary": "To be submitted."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Safety-Aware Test-Time Adaptation for Dual-Arm Coordination from Vision-Language-Action Models",
+      "publisher": "IROS",
+      "releaseDate": "2026",
+      "website": "",
+      "summary": "Under review."
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "GCWG: Geometry-based Candidate Waypoint Generation for Safety-Oriented VLN-CE",
+      "publisher": "IROS",
+      "releaseDate": "2026",
+      "website": "",
+      "summary": "Under review."
+    },
+    {
+      "name": "Adaptive Finite-Time Consensus Protocol for Multiple Mechanical Manipulator Under Stochastic Vibration Conditions Based on Command Filtered Backstepping Method",
+      "publisher": "CCC",
+      "releaseDate": "2025",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": "Adaptive fuzzy finite-time consensus tracking for high-order stochastic multi-agent systems with input saturation",
+      "publisher": "International Journal of Fuzzy Systems",
+      "releaseDate": "2022",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": "Finite-time command filtered adaptive control for robot manipulators in random vibration environment",
+      "publisher": "IEEE Transactions on Circuits and Systems II: Express Briefs",
+      "releaseDate": "",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": "Finite-time control of high-order discrete-time systems",
+      "publisher": "IEEE Transactions on Circuits and Systems II: Express Briefs",
+      "releaseDate": "",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": "Adaptive neural tracking control for stochastic nonlinear systems via finite-time command filtered backstepping",
+      "publisher": "The 17th CISC",
+      "releaseDate": "2021",
+      "website": "",
+      "summary": "Excellent conference paper."
     }
   ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "presentations": [],
+  "teaching": [],
+  "portfolio": []
 }
