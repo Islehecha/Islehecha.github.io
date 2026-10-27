@@ -22,7 +22,7 @@ Research Interests
 Education
 ======
 * **Ph.D. student, Control Science and Engineering**, Southern University of Science and Technology & Peng Cheng Laboratory, 2023.9-present
-  * Advisor: Prof. Zhiyun Lin (IEEE Fellow)
+  * Advisors: Prof. Zhiyun Lin (IEEE Fellow) / Lingbo Liu (Associate Research Fellow)
   * Topic: Generative ergodic search and robust motion control for dynamic target distributions
 * **M.S., Control Science and Engineering**, Qingdao University, 2020.9-2023.6
   * Advisor: Prof. Lin Zhao
@@ -37,7 +37,8 @@ Python, C/C++, Matlab/Simulink, ROS, Gazebo
 
 Selected Publications
 ======
-* Song X.Y., Li Y.Q., Guo X.Y., Yang J.K., Lu H.B., Lin X.Y. "Diffusion-Ergodic: A Generative Framework for Information-Theoretic Exploration." ICML, 2026. Under review.
-* Song X.Y., Li Y.Q., Yang J.K., Lu H.B., Lin X.Y. "Reinforcement Learning to Coordinate a Hierarchy of Piecewise Controllers for Robust Motion Synthesis." Automatica. To be submitted.
+* Li Y.Q., Song X.Y., Yang J.K., Lu H.B., Lin Z.Y. "Reinforcement Learning Navigation with Safety and Probabilistic Completeness." IEEE Control Systems Letters, 2026. Under review.
+* Song X.Y., Li Y.Q., Guo X.Y., Yang J.K., Lu H.B., Liu L.B., Lin Z.Y., Lin L. "Diffusion-Ergodic: A Generative Framework for Information-Theoretic Exploration." IEEE Robotics and Automation Letters, 2026. Under review.
+* Song X.Y., Li Y.Q., Yang J.K., Lu H.B., Liu L.B., Lin Z.Y., Lin L. "Reinforcement Learning to Coordinate a Hierarchy of Piecewise Controllers for Robust Motion Synthesis." IEEE Transactions on Cybernetics. Major revision.
 * Song X.Y., Zhao L. "Adaptive fuzzy finite-time consensus tracking for high-order stochastic multi-agent systems with input saturation." International Journal of Fuzzy Systems, 2022.
 * Song X.Y., Zhao L. "Finite-time command filtered adaptive control for robot manipulators in random vibration environment." IEEE Transactions on Circuits and Systems II: Express Briefs.

@@ -83,22 +83,29 @@
   "references": [],
   "publications": [
     {
+      "name": "Reinforcement Learning Navigation with Safety and Probabilistic Completeness",
+      "publisher": "IEEE Control Systems Letters",
+      "releaseDate": "2026",
+      "website": "",
+      "summary": "Under review."
+    },
+    {
       "name": "Diffusion-Ergodic: A Generative Framework for Information-Theoretic Exploration",
-      "publisher": "ICML",
+      "publisher": "IEEE Robotics and Automation Letters",
       "releaseDate": "2026",
       "website": "",
       "summary": "Under review."
     },
     {
       "name": "Reinforcement Learning to Coordinate a Hierarchy of Piecewise Controllers for Robust Motion Synthesis",
-      "publisher": "Automatica",
+      "publisher": "IEEE Transactions on Cybernetics",
       "releaseDate": "",
       "website": "",
-      "summary": "To be submitted."
+      "summary": "Major revision."
     },
     {
       "name": "Safety-Aware Test-Time Adaptation for Dual-Arm Coordination from Vision-Language-Action Models",
-      "publisher": "IROS",
+      "publisher": "IEEE Transactions on Industrial Informatics",
       "releaseDate": "2026",
       "website": "",
       "summary": "Under review."

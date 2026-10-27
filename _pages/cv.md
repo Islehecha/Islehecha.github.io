@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D. student in Control Science and Engineering, Southern University of Science and Technology & Peng Cheng Laboratory, 2023.9-present
-  * Advisor: Prof. Zhiyun Lin (IEEE Fellow)
+  * Advisors: Prof. Zhiyun Lin (IEEE Fellow) / Lingbo Liu (Associate Research Fellow)
   * Topic: Generative ergodic search and robust motion control for dynamic target distributions
   * Coursework: Matrix Analysis and Its Applications
 * M.S. in Control Science and Engineering, Qingdao University, 2020.9-2023.6
