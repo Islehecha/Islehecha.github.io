@@ -1,10 +1,10 @@
 {
   "basics": {
-    "name": "Xinyu Song",
+    "name": "Xinyu Song (宋欣宇)",
     "email": "xysong7664@163.com",
     "phone": "17852152879",
     "website": "https://Islehecha.github.io",
-    "summary": "Ph.D. student in Control Science and Engineering at Southern University of Science and Technology and Peng Cheng Laboratory.",
+    "summary": "Ph.D. student in Control Science and Engineering at Southern University of Science and Technology (SUSTech) and Peng Cheng Laboratory (PCL), focusing on Embodied AI, Generative Ergodic Planning, World-Action Models (WAM), and Reinforcement-Learning-Based Robust Control.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -17,8 +17,8 @@
   "work": [],
   "education": [
     {
-      "institution": "Southern University of Science and Technology & Peng Cheng Laboratory",
-      "area": "Control Science and Engineering",
+      "institution": "Southern University of Science and Technology (国家“双一流”建设高校) & Peng Cheng Laboratory (国家级新型科研机构)",
+      "area": "Control Science and Engineering (Advisors: Prof. Zhiyun Lin [IEEE Fellow], Assoc. Researcher Lingbo Liu)",
       "studyType": "Ph.D. student",
       "startDate": "2023-09",
       "endDate": "Present",
@@ -28,38 +28,75 @@
       ]
     },
     {
-      "institution": "Qingdao University",
-      "area": "Control Science and Engineering",
+      "institution": "Qingdao University (山东省属重点综合大学)",
+      "area": "Control Science and Engineering (Advisor: Assoc. Prof. Lin Zhao [青年长江学者])",
       "studyType": "M.S.",
       "startDate": "2020-09",
       "endDate": "2023-06",
-      "gpa": "3.61/4.0",
+      "gpa": "3.61/4.0 (Top 20%)",
       "courses": [
-        "Robotics"
+        "Robotics",
+        "Outstanding Graduate (2023)",
+        "Second-Class Scholarship (2022)"
       ]
     },
     {
-      "institution": "Wuhan University of Science and Technology",
+      "institution": "Wuhan University of Science and Technology (中西部高校基础能力建设工程重点高校)",
       "area": "Automation",
       "studyType": "B.S.",
       "startDate": "2015-09",
       "endDate": "2019-06",
-      "gpa": "3.43/4.0",
+      "gpa": "3.43/4.0 (Top 10%)",
       "courses": [
         "Principles of Automatic Control",
-        "Modern Control Theory"
+        "Modern Control Theory",
+        "Outstanding Graduation Thesis"
       ]
     }
   ],
   "skills": [
     {
-      "name": "Programming and tools",
+      "name": "Embodied AI & Robotics",
+      "keywords": [
+        "ROS",
+        "Gazebo",
+        "Habitat",
+        "Motion Control",
+        "Closed-Loop Simulation"
+      ]
+    },
+    {
+      "name": "Deep Learning, Generative Models & RL",
+      "keywords": [
+        "PyTorch",
+        "Diffusion Models (EDM / Test-Time Guidance)",
+        "Diffusion Bridge",
+        "Flow Matching",
+        "Transformer",
+        "World-Action Models (WAM)",
+        "PPO / SAC / TD3 / DDPG / DQN"
+      ]
+    },
+    {
+      "name": "Engineering & Vibe Coding",
       "keywords": [
         "Python",
         "C/C++",
+        "Linux/Ubuntu",
+        "CMake",
+        "Git",
+        "Shell",
+        "Claude Code / Cursor / Codex / Copilot",
+        "Skill / MCP / Sub-Agent"
+      ]
+    },
+    {
+      "name": "Modeling & Control",
+      "keywords": [
         "Matlab/Simulink",
-        "ROS",
-        "Gazebo"
+        "Command-Filtered Backstepping",
+        "Simplex Robust Control",
+        "Lyapunov Stability Analysis"
       ]
     }
   ],
@@ -73,77 +110,71 @@
     {
       "name": "Research",
       "keywords": [
-        "Generative ergodic search",
-        "Robust motion control",
-        "Adaptive finite-time control",
-        "Stochastic nonlinear systems"
+        "Dynamic Information Field Search",
+        "Generative Ergodic Planning",
+        "World-Action Models (WAM)",
+        "Reinforcement Learning Robust Control",
+        "Stochastic Nonlinear Systems"
       ]
     }
   ],
   "references": [],
   "publications": [
     {
-      "name": "Diffusion-Ergodic: A Generative Framework for Information-Theoretic Exploration",
-      "publisher": "ICML",
+      "name": "Reinforcement Learning to Coordinate a Hierarchy of Piecewise Controllers for Robust Motion Synthesis",
+      "publisher": "IEEE Transactions on Cybernetics (SCI, 中科院 1 区)",
       "releaseDate": "2026",
       "website": "",
-      "summary": "Under review."
+      "summary": "Song X.Y., Li Y.Q., Yang J.K., Lu H.B.*, Liu L.B.*, Lin Z.Y.*, Lin L.. (Major Revision)."
     },
     {
-      "name": "Reinforcement Learning to Coordinate a Hierarchy of Piecewise Controllers for Robust Motion Synthesis",
-      "publisher": "Automatica",
-      "releaseDate": "",
+      "name": "Diffusion-Ergodic: A Generative Framework for Information-Theoretic Exploration",
+      "publisher": "RAL",
+      "releaseDate": "2026",
       "website": "",
-      "summary": "To be submitted."
+      "summary": "Song X.Y., Li Y.Q., Guo X.Y., Yang J.K., Lu H.B., Liu L.B., Lin Z.Y., Lin L.. (Under Review)."
     },
     {
       "name": "Safety-Aware Test-Time Adaptation for Dual-Arm Coordination from Vision-Language-Action Models",
-      "publisher": "IROS",
+      "publisher": "IEEE Transactions on Industrial Informatics (SCI, 中科院 1 区)",
       "releaseDate": "2026",
       "website": "",
-      "summary": "Under review."
-    },
-    {
-      "name": "GCWG: Geometry-based Candidate Waypoint Generation for Safety-Oriented VLN-CE",
-      "publisher": "IROS",
-      "releaseDate": "2026",
-      "website": "",
-      "summary": "Under review."
+      "summary": "Guo X.Y., Bai Y.J., Song X.Y., Xu R.T., Liang X.D.*, Wang M.*. (To be submitted / 待投)."
     },
     {
       "name": "Adaptive Finite-Time Consensus Protocol for Multiple Mechanical Manipulator Under Stochastic Vibration Conditions Based on Command Filtered Backstepping Method",
-      "publisher": "CCC",
+      "publisher": "CCC (CAA-A, EI 会议)",
       "releaseDate": "2025",
       "website": "",
-      "summary": ""
+      "summary": "Guo X.Y., Song X.Y., Wang M.*, Peng B.*."
     },
     {
       "name": "Adaptive fuzzy finite-time consensus tracking for high-order stochastic multi-agent systems with input saturation",
-      "publisher": "International Journal of Fuzzy Systems",
+      "publisher": "International Journal of Fuzzy Systems (SCI, 中科院 3 区)",
       "releaseDate": "2022",
       "website": "",
-      "summary": ""
+      "summary": "Song X.Y., Zhao L.*."
     },
     {
       "name": "Finite-time command filtered adaptive control for robot manipulators in random vibration environment",
-      "publisher": "IEEE Transactions on Circuits and Systems II: Express Briefs",
-      "releaseDate": "",
+      "publisher": "IEEE Transactions on Circuits and Systems II: Express Briefs (SCI, 中科院 2 区)",
+      "releaseDate": "2022",
       "website": "",
-      "summary": ""
+      "summary": "Song X.Y., Zhao L.*."
     },
     {
       "name": "Finite-time control of high-order discrete-time systems",
-      "publisher": "IEEE Transactions on Circuits and Systems II: Express Briefs",
-      "releaseDate": "",
+      "publisher": "IEEE Transactions on Circuits and Systems II: Express Briefs (SCI, 中科院 2 区, 导师一作学生二作)",
+      "releaseDate": "2022",
       "website": "",
-      "summary": ""
+      "summary": "Zhao L.*, Song X.Y.."
     },
     {
       "name": "Adaptive neural tracking control for stochastic nonlinear systems via finite-time command filtered backstepping",
-      "publisher": "The 17th CISC",
+      "publisher": "The 17th CISC2021 (EI 会议, 优秀会议论文)",
       "releaseDate": "2021",
       "website": "",
-      "summary": "Excellent conference paper."
+      "summary": "Song X.Y., Zhao L.*."
     }
   ],
   "presentations": [],
